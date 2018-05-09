@@ -4,7 +4,7 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
-Teste de Sistema Realizado Git
+Teste de Sistema Realizado Gitasdasdasdasd
 
 There are two methods for getting started with this repo.
 
